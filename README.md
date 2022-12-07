@@ -15,5 +15,5 @@ I'm a Software Engineer, I'm very passionate about learning and always ready to 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=CallmeKelly&show_icons=true&include_all_commits=true&hide_border=true" alt="CallmeKelly's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Ezekiel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=CallmeKelly&show_icons=true&include_all_commits=true&hide_border=true" alt="CallmeKelly's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeKelly&langs_count=8&layout=compact&hide_border=true" alt="Ezekiel's GitHub stats" /> |
 | ------------- | ------------- |
